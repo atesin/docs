@@ -1,2 +1,2 @@
 # docs
-about my projects, mainly for personal use
+documentation about my projects and personal stuff, check the license before copy or modify
